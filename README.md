@@ -1,6 +1,6 @@
 # Eyes
-## Title of the project: 
-Memory Eyes
+## Title of the project:
+### Memory Eyes
 <img src= "eye.png" width='300'/>
 
 ## Description of the project:
